@@ -1,0 +1,12 @@
+modLoader="javafml" #mandatory
+loaderVersion="[25,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="GPLv3"
+[[mods]] #mandatory
+modId="effectinfo" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Just Enough Effects" #mandatory
+credits="" #optional
+authors="3DPinball,Sliver" #optional
+description='''
+Potion Effect Info
+'''

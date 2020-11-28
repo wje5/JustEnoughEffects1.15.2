@@ -41,12 +41,9 @@
 	"effect.minecraft.unluck.4.desc": "-1 Luck per level.",
 	"effect.minecraft.levitation.4.desc": "Floats up (0.9*lvl) blocks per second unconditionally.",
 	"effect.minecraft.slow_falling.0.desc": "Slow Falling",
-    "effect.minecraft.conduit_power.0.desc": "Conduit Power",
-    "effect.minecraft.dolphins_grace.0.desc": "Dolphin's Grace",
-    "effect.minecraft.bad_omen.0.desc": "Bad Omen",
-    "effect.minecraft.hero_of_the_village.0.desc": "Hero of the Village",
-    "event.minecraft.raid.0.desc": "Raid",
-    "event.minecraft.raid.raiders_remaining.0.desc": "Raiders Remaining: %s",
-    "event.minecraft.raid.victory.0.desc": "Victory",
-    "event.minecraft.raid.defeat.0.desc": "Defeat"
+    "effect.minecraft.conduit_power.4.desc": "Water Breathing, full brightness vision day and night, also mines faster.",
+    "effect.minecraft.dolphins_grace.0.desc": "Boost speed under water.",
+    "effect.minecraft.bad_omen.0.desc": "Effect ends when entered a village, meanwhile trigger a Raid. The higher level it is, the more likely the illagers in the Raid would equip enchanted armors and weapons.",
+    "effect.minecraft.bad_omen.4.desc": "Trigger one more wave of Raid.",
+    "effect.minecraft.hero_of_the_village.0.desc": "Every trades have a 30%% + 6.25%% * (lvl - 1) discount and villagers may offer gifts."
 }
